@@ -1,0 +1,140 @@
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.2em;
+}
+th.menu {
+    border: 1px solid black;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.8em;
+    z-index: 1;
+}
+
+td {
+    background: rgb(195, 163, 255);
+}
+
+tr.main {
+    height: 700px;
+}
+
+
+tr.scoreboard {
+align-content: center;
+background-color: #fff;
+}
+th.scoreboard {
+    border: 1px solid black;
+    width: 9em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.8em;
+    z-index: 1;
+    background-color: rgb(223, 205, 255);
+    
+}
+
+td.scoreboard {
+    background: rgb(195, 163, 255);
+    border: 1px dotted black;
+}
+td.score {
+    width: 11em;
+    padding: 4px;
+}
+.navbar {
+    width: 9em;
+    height: 100%;
+    background: rgb(184, 123, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.2em;
+    z-index: 1;
+    
+}
+.navbar a {
+    background-color: rgb(123, 52, 255);
+    color: #fff;
+    left: 10%;
+    padding: 0.2em;
+    margin: 0.5em;
+    text-decoration: none;
+    font-size: 20pt;
+
+}
+.navbar a:hover {
+    background-color: rgb(81, 42, 255);
+    padding: 0.5em 0.3em 0.5em 0.3em
+}
+/*
+.title {
+    top: 10%;
+    position: fixed;
+    margin: auto;
+    left: 30%;
+    right: 30%;
+    padding: 2px;
+    width: 100%;
+    align-content: center;
+
+}
+.body {
+    background:white;
+    width: 80%;
+    left: 20%;
+    position: fixed;
+    top: 30%;
+    padding: 5px;
+}
+
+.space {
+    margin: 1em;
+}
+.form {
+    background: #999;
+    width: 15em;
+    left: 32%;
+    position: fixed;
+    top: 20%;
+}
+
+.form2 {
+    background: #999;
+    width: 15em;
+    left: 32%;
+    position: fixed;
+    top: 35%;
+    align-content: center;
+}
+.form3 {
+    background: #999;
+    width: 15em;
+    left: 32%;
+    position: fixed;
+    top: 45%;
+    align-content: center;
+}
+.form4 {
+    background: #999;
+    width: 15em;
+    left: 32%;
+    position: fixed;
+    top: 20%;
+    padding: 2px;
+}
+.loginTitle {
+    top: 10%;
+    position: fixed;
+    margin: auto;
+    align-self: center;
+    padding: 2px;
+    width: 100%;
+    text-align: center;
+}
+.loginForm {
+    background: #999;
+    width: 15em;
+    top: 30%;
+    padding: 2px;
+    text-align: center;
+    display: inline-block;
+    max-height: 15em;
+}*/
